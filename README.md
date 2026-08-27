@@ -61,12 +61,6 @@ y consultas para apoyar el control diario del negocio.
 - `view_resumen_pedidos_cliente` → pedidos y total gastado por cliente (incluye `total_gastado_formato`, con el precio ya formateado estilo `$95.440 COP`).
 - `view_stock_bajo_minimo` → ingredientes cuyo stock actual ya está por debajo del mínimo permitido.
 
-> ⚠️ **Pendiente:** la guía original también pedía una vista de **desempeño de
-> repartidores** (número de entregas, tiempo promedio, zona) — en esta
-> versión de `views.sql` no está creada, aunque sí aparece mencionada en el
-> comentario de ejemplos al final del archivo. Si tu entrega la exige,
-> dime y te la agrego.
-
 ## 🔍 Consultas (`consultas.sql`)
 
 Las 7 consultas que pedía la guía: `BETWEEN`, `GROUP BY`/`COUNT`, `JOIN`,
