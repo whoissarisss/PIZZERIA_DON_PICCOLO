@@ -1,5 +1,6 @@
 <img width="1053" height="525" alt="image" src="https://github.com/user-attachments/assets/0b8012b0-83a5-4c52-a8ab-a194bda907e5" />
-# 🍕 Pizzería Don Piccolo — Sistema de Gestión de Pedidos y Domicilios
+
+### 🍕 Pizzería Don Piccolo — Sistema de Gestión de Pedidos y Domicilios
 
 Sistema de gestión de base de datos desarrollado en **MySQL** para digitalizar y organizar las operaciones de la **Pizzería Don Piccolo**.
 
