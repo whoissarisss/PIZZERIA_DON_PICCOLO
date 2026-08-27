@@ -1,2 +1,1 @@
-# PIZZERIA_DON_PICCOLO
-<img width="970" height="711" alt="image" src="https://github.com/user-attachments/assets/f27f0894-bddc-4ac6-887c-32ab9e616a07" />
+<img width="1053" height="525" alt="image" src="https://github.com/user-attachments/assets/0b8012b0-83a5-4c52-a8ab-a194bda907e5" />
